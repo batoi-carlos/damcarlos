@@ -1,1 +1,5 @@
-Hasta nunki pipol
+<<<<<<< HEAD
+Hasta nunki pipol!!!
+=======
+Hasta nunki pipol!!!d
+>>>>>>> desarrollo
